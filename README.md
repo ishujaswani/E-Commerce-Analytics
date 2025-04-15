@@ -67,7 +67,7 @@ def review_count_scraper():
 
 1. Clone this repository:
 ```
-git clone https://github.com/Ishujaswani/E-commerce_Analytics.git
+[git clone https://github.com/Ishujaswani/E-commerce_Analytics.git]https://github.com/ishujaswani/E-Commerce-Analytics.git)
 ```
 
 2. Install required dependencies:
